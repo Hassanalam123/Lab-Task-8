@@ -4,7 +4,7 @@ public class main {
 		// TODO Auto-generated method stub
 	
 				
-			sabihlist MyList = new sabihlist();
+			Mylinklist MyList = new Mylinklist();
 
 
 			MyList.add(2);
