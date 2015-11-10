@@ -1,0 +1,5 @@
+public class mylinklist {
+	int val;
+	mylinklist add;
+	mylinklist showall;
+}
