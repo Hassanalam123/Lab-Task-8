@@ -1,4 +1,4 @@
-public class mylinklist {
+public class Node {
 	int val;
 	mylinklist add;
 	mylinklist showall;
